@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://poojigupta.github.io/codewithpooja/static/css/main.073c9b0a.css",
-    "main.js": "https://poojigupta.github.io/codewithpooja/static/js/main.2189df17.js",
-    "static/js/787.94e5508d.chunk.js": "https://poojigupta.github.io/codewithpooja/static/js/787.94e5508d.chunk.js",
-    "index.html": "https://poojigupta.github.io/codewithpooja/index.html",
-    "main.073c9b0a.css.map": "https://poojigupta.github.io/codewithpooja/static/css/main.073c9b0a.css.map",
-    "main.2189df17.js.map": "https://poojigupta.github.io/codewithpooja/static/js/main.2189df17.js.map",
-    "787.94e5508d.chunk.js.map": "https://poojigupta.github.io/codewithpooja/static/js/787.94e5508d.chunk.js.map"
+    "main.css": "/greet-app/static/css/main.073c9b0a.css",
+    "main.js": "/greet-app/static/js/main.853b7d99.js",
+    "static/js/787.94e5508d.chunk.js": "/greet-app/static/js/787.94e5508d.chunk.js",
+    "index.html": "/greet-app/index.html",
+    "main.073c9b0a.css.map": "/greet-app/static/css/main.073c9b0a.css.map",
+    "main.853b7d99.js.map": "/greet-app/static/js/main.853b7d99.js.map",
+    "787.94e5508d.chunk.js.map": "/greet-app/static/js/787.94e5508d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.2189df17.js"
+    "static/js/main.853b7d99.js"
   ]
 }
